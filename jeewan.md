@@ -1,0 +1,3 @@
+- Hello myself Jeewan k.c. from Bkt.
+- And i am learning about git.
+- I am currently learning python.
