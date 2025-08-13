@@ -1,1 +1,2 @@
-Hello this is a personal information function.
+
+Hi my name is Jeshmin Shrestha . I am pursing Bsc(Hons) Computing with AI . I am passionate about AI, ML and Software Development.I have applied my skills in my recent projects which can be found in github.
